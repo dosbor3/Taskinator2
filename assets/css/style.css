@@ -100,7 +100,7 @@ footer {
   height: calc(100% - 50px);
   background: var(--ocean);
   border-radius: 12px;
-  border: 2px solid var(--ocean);
+  border: 2px solid var(--primary);
 }
 
 .task-item {
